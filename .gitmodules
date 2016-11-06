@@ -1,0 +1,3 @@
+[submodule "DRAID"]
+	path = DRAID
+	url = https://github.com/nhuzaa/DRAID
