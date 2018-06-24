@@ -2,6 +2,7 @@
 Major Projects done by students of KEC.
 
 ## Project List
+- [CaptionIt](https://github.com/sthpravin/major-project-bct)
 - [DRAID](https://github.com/nhuzaa/DRAID)
 - [Driver Dai](https://github.com/dillichalise/DriverDai)
 - [Log Analysis for Security](https://github.com/shradhaN/Major-Project)
