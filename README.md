@@ -8,6 +8,7 @@ Major Projects done by students of KEC.
 - [Driver Dai](https://github.com/dillichalise/DriverDai)
 - [Illuminate](https://github.com/soneeka/Major-Project)
 - [Log Analysis for Security](https://github.com/shradhaN/Major-Project)
+- [Real-time Ambulance Traffic Support](https://github.com/OjeshManandhar/LifeLine-App-Test)
 - [Sanketic Lipi](https://github.com/samyoga/SanketicLipi)
 - [Video Super Resolution with Deep Learning](https://github.com/amitness/major-project)
 
